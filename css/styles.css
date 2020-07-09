@@ -1,0 +1,36 @@
+body {
+    background-color: #127681;
+}
+
+h1 {
+    font-size: 45px;
+    color: #f4f6ff;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 15px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav {
+    background-color: silver;
+}
+
+.nav a {
+    display: block;
+    background-color: slategrey;
+    color: white;
+}
+
+.nav a:hover {
+    background-color: violet;
+    color: blue;
+}
